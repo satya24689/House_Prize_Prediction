@@ -11,12 +11,7 @@ This GitHub repository contains a house price prediction project. Whether you're
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Issues](#issues)
-- [License](#license)
-- [Contact](#contact)
+  - [Installation](#installation).
 
 
 ## Features
